@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/* style quw */
+
+.wraper {
+    width: 1024px;
+    margin: 0 auto;
+
+}
+
+.header {
+    header : 100%;
+    background-color: black;
+    height: 120px;
+    overflow: hidden;
+    border-bottom: 3px solid rgb(75, 75, 75);
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.header img {
+    width: 70px;
+    height: 80px;
+    float: left;
+    margin: 10px auto auto 10px;
+    overflow: hidden;
+
+}
+
+.header h1 {
+    margin: 40px auto auto 100px;
+}
+
+.navigasi {
+    widows: 100%;
+    
+    margin-top: 34px;
+}
+
+.navigasi_link ul li {
+    display: inline-block;
+    background-color: rgb(32, 32, 32);
+    padding: 10px 30px 10px 30px;
+
+}
+
+.navigasi_link a {
+    text-decoration: none;
+    color: white;
+}
+
+.form {
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -45px;
+   
+    
+   
+}
+
+.menu_utama {
+    
+    overflow: hidden;
+    padding: 10px;  
+}
+
+.artikel {
+    width: 500px;
+    height: 200px;
+    background: orangered;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+}
+
+
+.isi_1 img {
+    float: left;
+    width: 150px;
+    height: 80px;
+    margin-left: 20px;
+    overflow: hidden;
+}
+
+.isi_1 h1 h4  {
+   float: left;
+   l
+   
+   
+}
+
+.sidebar {
+    width: 500px;
+    height: 400px;
+    background: grey;
+    float: right;
+}
+
+
+.footer {
+    background-color: aqua;
+    height: 100px;
+  
+}
+
+
